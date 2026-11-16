@@ -2,6 +2,15 @@
 
 Projeto desenvolvido na disciplina de **Oficina de Programação e Robótica LEGO MINDSTORMS EV3 STEAM**, com o objetivo de construir e programar um robô capaz de percorrer autonomamente uma linha preta de 2 metros.
 
+## 🎥 Demonstração
+
+Clique na imagem para assistir ao robô percorrendo
+a pista de 2 metros.
+
+[![Robô Seguidor de Linha](./robo-frente.jpeg)](./execucao.mp4)
+
+[▶️ Assistir ao vídeo completo](./execucao.mp4)
+
 ## 🎯 Objetivo
 
 Desenvolver um robô capaz de identificar uma linha preta, acompanhar seu percurso e parar ao chegar exatamente ao final da pista.
