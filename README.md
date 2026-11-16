@@ -126,6 +126,10 @@ A execução do projeto pode ser visualizada no vídeo abaixo:
 
 [▶️ Assistir à demonstração](execucao.mp4)
 
+## 🤝 Trabalho em equipe
+
+Projeto acadêmico desenvolvido de forma colaborativa. Este repositório documenta o desafio, a solução construída e o resultado alcançado pela equipe; não deve ser interpretado como um projeto individual.
+
 ## 👥 Equipe
 
 **Equipe Barca de Noé — Caixa 1**
