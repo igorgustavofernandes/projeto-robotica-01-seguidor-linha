@@ -4,7 +4,7 @@ Projeto acadêmico desenvolvido na disciplina de **Oficina de Programação e Ro
 
 An academic project developed as part of the **LEGO MINDSTORMS EV3 Programming and Robotics Workshop**. The goal was to build and program a robot capable of autonomously following a 2-meter black line.
 
-##  Demonstração | Demo
+## Demonstração | Demo
 
 Clique na imagem para assistir ao robô percorrendo a pista.
 
@@ -14,13 +14,13 @@ Click the image to watch the robot follow the track.
 
 [ Assistir ao vídeo completo | Watch the full video](./execucao.mp4)
 
-##  Objetivo | Objective
+## Objetivo | Objective
 
 Desenvolver um robô capaz de identificar uma linha preta, acompanhar seu percurso e parar ao chegar ao final da pista. Caso perdesse a trajetória, o robô deveria ser capaz de se relocalizar e continuar a execução.
 
 Build a robot capable of detecting and following a black line, stopping at the end of the track. If it lost the path, it should be able to relocate the line and continue.
 
-##  O Desafio | The Challenge
+## O Desafio | The Challenge
 
 O desafio consistia em percorrer uma pista contendo uma linha preta de **2 metros**, utilizando sensores para identificar a trajetória e motores para controlar o deslocamento.
 
@@ -34,7 +34,7 @@ O robô deveria | The robot had to:
 - Percorrer os 2 metros | Travel the 2 meters;
 - Parar ao final do percurso | Stop at the end of the track.
 
-##  Hardware e Componentes | Hardware and Components
+## Hardware e Componentes | Hardware and Components
 
 - **LEGO MINDSTORMS EV3** — unidade de controle | control unit;
 - **Bloco EV3** — execução do programa | program execution;
@@ -43,7 +43,7 @@ O robô deveria | The robot had to:
 - **Rodas e peças LEGO** — estrutura e locomoção | structure and movement;
 - **Cabos** — conexão entre os componentes | component connections.
 
-##  Lógica de Funcionamento | Operating Logic
+## Lógica de Funcionamento | Operating Logic
 
 O Sensor 4 realiza leituras da superfície para identificar a faixa preta. A partir dessas leituras, o programa utiliza estruturas de decisão para determinar o comportamento dos motores B e C.
 
@@ -63,7 +63,7 @@ During development, the movement strategy went through different approaches. Ini
 - Lógica de controle de trajetória | Path control logic;
 - Temporização | Timing.
 
-##  Desenvolvimento e Testes | Development and Testing
+## Desenvolvimento e Testes | Development and Testing
 
 A solução foi desenvolvida de forma iterativa, com testes e ajustes na programação e na estrutura física do robô.
 
@@ -101,7 +101,7 @@ Além da programação, foram realizados ajustes na montagem para reforçar os e
 
 The robot's physical assembly was also adjusted to reinforce connections and improve stability.
 
-## 📐 Conceitos Aplicados | Applied Concepts
+## Conceitos Aplicados | Applied Concepts
 
 **Programação e algoritmos | Programming and Algorithms**
 
@@ -124,7 +124,7 @@ The robot's physical assembly was also adjusted to reinforce connections and imp
 - Centro de massa | Center of mass;
 - Estabilidade | Stability.
 
-##  Resultado | Result
+## Resultado | Result
 
 **Missão cumprida | Mission accomplished.**
 
@@ -136,7 +136,7 @@ O desenvolvimento envolveu testes e refinamento da estratégia de controle, desd
 
 The development process involved testing and refining the control strategy, evolving from zigzag movement to a more stable path.
 
-## 📸 Registros do Projeto | Project Gallery
+## Registros do Projeto | Project Gallery
 
 ### Robô | Robot
 
@@ -146,7 +146,7 @@ The development process involved testing and refining the control strategy, evol
 
 ![Programa desenvolvido no EV3](./programa-ev3.jpeg)
 
-##  Trabalho em Equipe | Teamwork
+## Trabalho em Equipe | Teamwork
 
 Projeto acadêmico desenvolvido de forma colaborativa. Este repositório documenta o desafio, a solução construída e o resultado alcançado pela equipe; não deve ser interpretado como um projeto individual.
 
